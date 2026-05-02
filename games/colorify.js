@@ -1,3 +1,10 @@
+/*
+@title: Colorify
+@author: Nikolaos Samaras
+@description: A basic maze game where you can change color to pass throught walls
+@tags: ['maze', 'color']
+@addedOn: 2026-05-02
+*/
 
 // ── sprite keys (must all be single characters) ────────
 const player_blue    = "b"
